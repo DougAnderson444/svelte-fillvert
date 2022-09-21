@@ -2,6 +2,8 @@
 
 Fills app to visible height, even on mobile.
 
+Zero dependencies. Just convenience.
+
 ## Usage
 
 ```svelte
