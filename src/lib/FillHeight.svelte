@@ -23,7 +23,5 @@
 <style>
 	.app {
 		height: 100vh; /* Fallback for browsers that do not support Custom Properties */
-		display: flex;
-		flex-direction: column;
 	}
 </style>
