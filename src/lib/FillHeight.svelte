@@ -1,10 +1,7 @@
-<script>
+<script lang="ts">
 	import { onMount } from 'svelte';
 
-	/**
-	 * @type {number}
-	 */
-	let vh;
+	let vh: number;
 
 	onMount(() => {
 		document.body.style.padding = '0';
@@ -12,9 +9,8 @@
 		handleViewportSize();
 	});
 
-	function handleViewportSize(_) {
+	function handleViewportSize() {
 		vh = window.innerHeight * 0.01;
-		console.log('vh', vh);
 	}
 </script>
 

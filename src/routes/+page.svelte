@@ -1,5 +1,5 @@
 <script>
-	import FillVertical from '@douganderson444/svelte-fillvertical';
+	import FillVertical from '@douganderson444/svelte-fillvert';
 </script>
 
 <FillVertical>
