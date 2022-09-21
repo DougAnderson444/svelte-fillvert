@@ -2,7 +2,7 @@
 
 Fills app to visible height, even on mobile.
 
-## Use
+## Usage
 
 ```svelte
 <script>
