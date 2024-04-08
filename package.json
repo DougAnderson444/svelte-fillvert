@@ -1,6 +1,6 @@
 {
 	"name": "@douganderson444/svelte-fillvert",
-	"version": "1.0.1",
+	"version": "2.0.0",
 	"scripts": {
 		"dev": "vite dev",
 		"build": "vite build",
